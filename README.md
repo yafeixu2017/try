@@ -1,7 +1,2 @@
-[TOC]
-
-# try1
-try a project
-
-# try2
-halo welt
+PLAESE CHECK CONTENT WITH:
+https://github.com/yafeixu2017/try.wiki.git
